@@ -1,0 +1,6 @@
+{
+  "name": "Network Mastery Lab",
+  "description": "Understand Computer Networks from First Principles. An interactive learning platform featuring comprehensive roadmaps, packet and protocol visualizers, subnetting & delay calculators, quizzes, and personal study notebooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
